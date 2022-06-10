@@ -27,7 +27,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/gGtEriKk">
         <img src="Foto de perfil do GitHub.png" width="100px;" alt="Foto do Erik Gomes no GitHub"><br>
         <sub>
           <b>Erik Gomes</b>
