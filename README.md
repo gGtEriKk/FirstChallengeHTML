@@ -1,5 +1,10 @@
 # Desafio "Quem Sou Eu" HTML
 
+## Descrição:
+
+<P>
+  Proposto como um desafio a ser realizado durante o módulo de HTML, este site com uma breve apresentação sobre mim, foi meu primeiro projeto dentro do curso. Foi utilizado apenas HTML, onde tive noções básicas de implementação de parágrafo, título, além de inserção de imagem.
+</p>
 
 <img src="print desafio 1.png" alt="resultado do desafio">
 <img src="print desafio 2.png" alt="resultado do desafio">
